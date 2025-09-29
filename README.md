@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mayank Daiya</h1>
-<h3 align="center">Aspiring Full Stack Web Developer</h3>
+<h3 align="center">QA Automation Engineer | Java + Selenium | Aspiring Backend Developer (Spring Boot)</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3792792/programmer.png">
 
-- 🔭 I’m currently working on my Project **Hybrid Application**
+- 🔭 I’m currently working on Enhancing QA Automation skills using **Java & Selenium**
 
-- 🤝 I've done **Flutter UI Framework**
+- 🤝 Built a solid foundation in core **Java** including **OOPs**, collections, exceptions, and **DSA**
 
-- 🌱 I’m currently learning **Full Stack Web Development**
+- 🌱 I’m currently learning **Backend Development with Java and Spring Boot**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
