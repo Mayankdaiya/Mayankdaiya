@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on Enhancing QA Automation skills using **Java & Selenium**
 
-- 🤝 Built a solid foundation in core **Java** including **OOPs**, collections, exceptions, and **DSA**
+- 🤝 Built a solid foundation in core **Java** including **OOPs**, collections, exceptions, **DSA** and MERN
 
 - 🌱 I’m currently learning **Backend Development with Java and Spring Boot**
 
@@ -71,6 +71,12 @@
   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40"/>
   </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="40" height="40"/>
+  </a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
+  </a>
 </p>
 
 <!-- 🧰 Databases & Others -->
@@ -79,14 +85,14 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
   </a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
   </a>
 </p>
 
 <!-- 📘 Concepts (Text-based, no official logos) -->
 <p align="left">
-  🧩 <strong>Core Concepts:</strong> OOP • DSA • JDBC • SQL • BDD
+  🧩 <strong>Core Concepts:</strong> OOP • DSA • JDBC • SQL • BDD • MERN
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mayankdaiya&show_icons=true&locale=en&layout=compact" alt="mayankdaiya" /></p>
